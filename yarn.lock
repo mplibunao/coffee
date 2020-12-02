@@ -6701,6 +6701,11 @@ gatsby-plugin-sharp@^2.6.43:
     svgo "1.3.2"
     uuid "3.4.0"
 
+gatsby-plugin-snipcartv3@^2.3.3:
+  version "2.3.3"
+  resolved "https://registry.yarnpkg.com/gatsby-plugin-snipcartv3/-/gatsby-plugin-snipcartv3-2.3.3.tgz#ac61a94f0460f3df482f0b32345fa4b6d4241435"
+  integrity sha512-Lsy5YkvbH1G9lE3fi8XGJi/8ykFTLMqa515+b2g1PFgOJDN/i1Kp/ljGAypPkpF5ZP4EL1VOJDIStrgiNsuIEg==
+
 gatsby-plugin-typescript@^2.4.24:
   version "2.4.24"
   resolved "https://registry.yarnpkg.com/gatsby-plugin-typescript/-/gatsby-plugin-typescript-2.4.24.tgz#c644d3919bd7460fc9b926b768cdf6c2f2f7b4e3"
